@@ -46,6 +46,6 @@ Full-time / internship **AI Developer** roles where I can bring this hands-on ex
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaibbuilds&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sohaibbuilds&show_icons=true&theme=default&hide_border=true)
 
 </div>
