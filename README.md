@@ -3,6 +3,7 @@
 # Hi, I'm Sohaib 👋
 
 **AI Developer building LLM agents and agentic workflows**
+
 Founder of **Sohaib Builds** — turning that into real products for clients
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sohaibbuilds-071426?style=for-the-badge&logo=vercel&logoColor=white)](https://sohaibbuildscom.vercel.app/)
@@ -45,6 +46,6 @@ Full-time / internship **AI Developer** roles where I can bring this hands-on ex
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaibbuilds&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaibbuilds&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
 
 </div>
